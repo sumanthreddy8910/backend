@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.resume {
+    display: flex;
+    margin: 20px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.left-column img {
+    max-width: 50%;
+    border-radius: 30%;
+}
+
+.right-column {
+    flex: 4;
+    padding: 20px;
+}
+.right-column h1{
+    font-family: cursive;
+}
+
+.education {
+    background-color: bisque ;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.education h2 {
+    color: #333;
+}
+
+.education-box {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.projects {
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.interpersonalskills {
+    background-color: lightpink;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.Programmingskills {
+    background-color: #F08080;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact {
+    background-color: skyblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(9, 17, 0, 0.366);
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    flex-direction: row;
+}
+
+.contact a {
+    margin: 5px;
+    align-items: center;
+}
+
+.contact img {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}

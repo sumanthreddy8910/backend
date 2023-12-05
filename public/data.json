@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "655f602e5d14518ee59df498",
+    "Team Name": "Mumbai Indians",
+    "Captain": "Rohit Sharma",
+    "Team Colour": "Blue and Gold",
+    "City Based In": "Mumbai",
+    "No. of Championships Won": 5,
+    "Highest Score in an Innings": 235,
+    "Colour Code": "#2D69B1"
+  },
+  {
+    "_id": "655f602e5d14518ee59df499",
+    "Team Name": "Chennai Super Kings",
+    "Captain": "MS Dhoni",
+    "Team Colour": "Yellow",
+    "City Based In": "Chennai",
+    "No. of Championships Won": 4,
+    "Highest Score in an Innings": 246,
+    "Colour Code": "#FACB05"
+  },
+  {
+    "_id": "655f602e5d14518ee59df49a",
+    "Team Name": "Kolkata Knight Riders",
+    "Captain": "Eoin Morgan",
+    "Team Colour": "Purple and Gold",
+    "City Based In": "Kolkata",
+    "No. of Championships Won": 2,
+    "Highest Score in an Innings": 245,
+    "Colour Code": "#29204B"
+  },
+  {
+    "_id": "655f602e5d14518ee59df49b",
+    "Team Name": "Rajasthan Royals",
+    "Captain": "Sanju Samson",
+    "Team Colour": "Pink and Blue",
+    "City Based In": "Jaipur",
+    "No. of Championships Won": 1,
+    "Highest Score in an Innings": 226,
+    "Colour Code": "#EB83B5"
+  },
+  {
+    "_id": "655f602e5d14518ee59df49c",
+    "Team Name": "Sunrisers Hyderabad",
+    "Captain": "Kane Williamson",
+    "Team Colour": "Orange and Black",
+    "City Based In": "Hyderabad",
+    "No. of Championships Won": 1,
+    "Highest Score in an Innings": 231,
+    "Colour Code": "#F26523"
+  },
+  {
+    "_id": "655f602e5d14518ee59df49d",
+    "Team Name": "Royal Challengers Bangalore",
+    "Captain": "Virat Kohli",
+    "Team Colour": "Red and Gold",
+    "City Based In": "Bangalore",
+    "No. of Championships Won": 0,
+    "Highest Score in an Innings": 263,
+    "Colour Code": "#7E2327"
+  }
+]
